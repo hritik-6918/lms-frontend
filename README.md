@@ -58,7 +58,7 @@ lms-project/
 
 2. Install dependencies:
    ```bash
-  npm run deploy
+   npm install
    ```
 
 3. Create a \`.env\` file in the root directory with the following content:
