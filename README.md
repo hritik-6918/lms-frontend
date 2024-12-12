@@ -54,7 +54,7 @@ lms-project/
    ```bash
    git clone https://github.com/yourusername/lms-project.git
    cd lms-project
-  ```
+   ```
 
 2. Install dependencies:
    ```bash
@@ -68,14 +68,14 @@ lms-project/
    ```
 
 4. Start the development server:
-  ```bash
+   ```bash
    npm run dev
-  ```
+   ```
 
 5. In a separate terminal, start the backend server:
-  ```bash
+   ```bash
    npm run server
-  ```
+   ```
 
 6. Open your browser and navigate to \`http://localhost:3000\`
 
